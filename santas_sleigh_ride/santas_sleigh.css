@@ -1,0 +1,12 @@
+#sleigh {
+    max-width: auto;
+    max-height: auto;
+    position: absolute;
+    left: -30em;
+    top: 5em;
+}
+
+button {
+    position: absolute;
+    left: 20%;
+}
